@@ -1,4 +1,6 @@
-# GithubProjectRepo - 04/07/2025
+# GithubProjectRepo
+
+#04/07/2025
 
 #1 - Save the partial User.py code on your computer.
 #2 - Once saved, locate where the partial code was saved.
