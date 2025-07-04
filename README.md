@@ -2,6 +2,8 @@
 
 #04/07/2025
 
+#User.py only shows the prompts being provided to the user when they first ran the Community Mental Health Tracker. In this partial code, the user is prompted to either log in, register, or exit. Once the user already has an account, they can proceed with logging in. Otherwise, they will need to register first.
+
 #1 - Save the partial User.py code on your computer.
 #2 - Once saved, locate where the partial code was saved.
 #3 - Double click the address bar in order to highlight and edit it. Once done, type "cmd".
