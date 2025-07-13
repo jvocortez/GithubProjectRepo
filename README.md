@@ -11,3 +11,13 @@
   *Note: Make sure that Ubuntu is installed on your computer, as well as Python being installed on Ubuntu itself, for you to proceed further.
 #5 - Once your cmd successfully switched over to the Ubuntu WSL Terminal, type "<Python version> User.py".
   *In this case, type "python3 User.py" for you to incorporate the partial code onto the terminal.
+
+----------------------
+
+#13/07/2025
+
+#MainMenu.py shows the available main menu options to the user once they have successfully registered for an account and logged in to the tracker. #ProjectCurrent.py, on the other hand, combines both #User.py and #MainMenu.py and added a feature for each main menu option once accessed. There is also an added feature to the code wherein the user is allowed to delete their details if they wish to.
+
+*When it comes to running the code in the Ubuntu WSL Terminal, the steps remained to be the same*
+
+----------------------
