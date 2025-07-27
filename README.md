@@ -34,3 +34,9 @@ The function of each modules are as follows:
 #main.py - The application's entry point, handling GUI initialization and switching between login/registration and the main dashboard.
 
 It would also be best to have this tested in Visual Studio Code as it supports flet. This will enable the flet feature of the code. To finalize and polish the code, further API integration or FastAPI integration must be made.
+
+----------------------
+
+#27/07/2025
+
+PROJ06 (Project Final Deliverables) consists the overall code for this project, along with the link of the database used as per requirement. The four modules used in PR0J05 (Project Sprint 4) remained constant all throughout the project as it was determined that the Project Description was met already. So, to give an overview, the purpose of the codes made is to run a Flet Application that is used for Mental Health Tracking. This will allow the user to track and monitor their mental health, at the same time, and receive some tips and recommendations on how to cope with what they are currently feeling.
